@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Jul  1 10:55:01 2021
-Arrancamos
+Arrancamos 27/03/2026
 @author: aferrelli
 """
 from datetime import date
